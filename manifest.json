@@ -1,0 +1,9 @@
+{
+  "peer_id": "SolanaLeeky/peer-node-03",
+  "tracker": "SolanaLeeky/GitTorrent",
+  "storage_limit_mb": 2000,
+  "storage_used_mb": 0,
+  "chunk_count": 0,
+  "chunks": {},
+  "last_updated": ""
+}
